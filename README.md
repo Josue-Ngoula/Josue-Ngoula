@@ -6,31 +6,3 @@ I am a researcher specializing in physical layer modeling and the integration of
 
 Beyond my current tech stack, I am a lifelong learner with an open and adaptable mindset. I am constantly exploring new frameworks and emerging technologies to stay at the forefront of innovation and tackle complex engineering challenges.
 
-### 💡 Core Competencies & Value Proposition
-
-*   🧠 **AI & Predictive Channel Modeling** 
-*   🔄 **MLOps & Lifecycle Management** 
-*   📡 **Wireless Systems & Propagation**
-*   ⚙️ **Simulation Automation & Workflow Scaling**
-*   🌱 **Continuous Learning & Adaptability**
-
-### 🛠️ Technology Stack
-
-**Data Science, AI & MLOps:**
-*   **Deep Learning:** PyTorch
-*   **Machine Learning:** Scikit-Learn
-*   **MLOps:** Model Deployment, Lifecycle Management, CI/CD, Git
-*   **Data Ops & Visualization:** Python 🐍, NumPy, Pandas, Matplotlib, Seaborn
-
-**Wireless Modeling & Computational Electromagnetics:**
-*   **Simulation & Propagation:** Altair WinProp, Ansys HFSS, CST Microwave Studio
-*   **Automation & Scripting:** PyAEDT, Python API
-
-### 📫 Let's Connect:
-
-*   **LinkedIn:** 
-*   **Google Scholar:** 
-*   **Email:** melongjv@gmail.com
-
----
-*"Transforming wave propagation complexity into intelligent, predictive, and automated wireless networking solutions."*
